@@ -1,0 +1,36 @@
+<?xml-stylesheet type="text/css" href="lab prg5.css"?>
+<!DOCTYPE HTML>
+<html>
+<head>
+<h1> STUDENTS DETAILS </h1>
+</head>
+
+<students>
+  <student>
+    <USN>USN         : 1MV16CS001</USN>
+    <name>NAME       : John</name>
+    <college>COLLEGE : Sir MVIT</college>
+    <branch>BRANCH   : CSE</branch>
+    <year>YEAR       : 2016</year>
+    <e-mail>E-MAIL   : john@gmail.com</e-mail>
+  </student>
+
+  <student>
+    <USN>USN         : 1MV15ME002</USN>
+    <name>NAME       : Jessi</name>
+    <college>COLLEGE : Sir MVIT</college>
+    <branch>BRANCH   : ME</branch>
+    <year>YEAR       : 2015</year>
+    <e-mail>E-MAIL   : jessi@yahoo.com</e-mail>
+  </student>
+
+  <student>
+    <USN>USN         : 1MV17EE003</USN>
+    <name>NAME       : James</name>
+    <college>COLLEGE : Sir MVIT</college>
+    <branch>BRANCH   : EEE</branch>
+    <year>YEAR       : 2017</year>
+    <e-mail>E-MAIL   : james@outlook.com</e-mail>
+  </student>
+</students>
+</html>
